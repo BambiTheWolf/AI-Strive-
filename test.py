@@ -1,1 +1,1 @@
-print("Hello " + input("Insert username: "))
+print("Hello " + input("Enter username: "))
